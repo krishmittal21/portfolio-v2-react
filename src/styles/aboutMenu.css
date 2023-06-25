@@ -59,7 +59,7 @@
 .sub-container-3.active-subheading h3 {
     background: linear-gradient(90deg, var(--pink), var(--transparent) 100%);
 }
-  
+
 .item.active {
     position: relative;
     cursor: default;
@@ -110,7 +110,7 @@
         padding-right: 2.5rem;
     }
     .active-subheading .p-container {
-      font-size: 0.8rem;
+        font-size: 0.8rem;
     }
     .icon-title-container,
     .icon {
