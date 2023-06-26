@@ -31,13 +31,13 @@
     .avatar.skills {
         z-index: -3;
         height: 95vh;
-        bottom: -5vh;
+        bottom: -500vh;
     }
 }
 @media (max-width: 700px) {
     .avatar.about {
         z-index: -3;
         height: 95vh;
-        bottom: -5vh;
+        bottom: -500vh;
     }
 }
