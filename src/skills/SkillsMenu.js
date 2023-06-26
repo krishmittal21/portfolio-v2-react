@@ -1,3 +1,4 @@
+import "../styles/skillsMenu.css"
 const SkillSection=()=>{
     const halfLength = Math.ceil(skills.length / 2);
     const leftSkills = skills.slice(0, halfLength);

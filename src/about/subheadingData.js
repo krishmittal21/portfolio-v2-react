@@ -49,6 +49,19 @@ const subheadingsData = {
             content: (
             <>
                 <p>
+                Led the development and launch of comprehensive online curriculum on quantum computing.
+                <br/>
+                Collaborated with stakeholders to gather insights and establish partnerships.
+                <br/>
+                Strong knowledge of quantum computing principles and technologies.
+                <br/>
+                Exceptional organizational,project management , communication and collaboration skills.
+                
+
+
+                
+
+
                 
 
                 </p>
