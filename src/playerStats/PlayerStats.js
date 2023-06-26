@@ -20,14 +20,14 @@ const PlayerStats = () => {
                 <AiFillMail/>
             </a>
             </div>
-            <br />
+            
             LEVEL 18</h1>
         <div id="playerStats__lines">
             <span id="playerStats__lines__thick"></span>
             <span id="playerStats__lines__thin"></span>
         </div>
         <h2>Developer, Cloud Architect &
-            <br />
+            
             Product Manager
         </h2>
         </div>
