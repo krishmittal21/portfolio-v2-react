@@ -40,7 +40,7 @@ render() {
     const projectItems = ["PROJECT ONE", "PROJECT TWO", "PROJECT THREE"];
 
     return (
-        <div className="project-menu">
+        <div className="project-menu  mt-5">
             <div className="project-items-container">
             {projectItems.map((item, index) => (
                 <div
