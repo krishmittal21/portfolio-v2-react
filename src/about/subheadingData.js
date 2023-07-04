@@ -6,6 +6,7 @@ const subheadingsData = {
             <>
                 <p>
                 A product manager based out of delhi aspiring to be a cloud architect and a developer
+                https://www.educationworld.in/young-achiever-krish-mittal/
                 </p>
             </>
             ),
