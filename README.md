@@ -1,5 +1,5 @@
 # Portfolio v2
-This is a React portfolio website that showcases my skills and experience. It is built using the latest version of React and JavaScript.
+This is a React portfolio website that showcases my skills and experience. It is built using the latest version of React, JavaScript and TailwindCSS.
 
 # Getting Started
 To install the project, run the following commands:
