@@ -9,26 +9,32 @@ const projects = {
         description: (
         <>
             <p>
-            Created an elegant website to show my work
+            Deployed and hosted a highly scalable and responsive portfolio website  using ReactJS on AWS S3 bucket, AWS Cloudfront and AWS Route 53.
             <br />
-            yes, this website!
+            Yes, this website!
+            <br />
             Tools I Used  : 
+            <br />
             ReactJS,
-
+            <br />
             Tailwind,
-
+            <br />
             JavaScript,
-
-            Vercel,
-
-            Emailjs
+            <br />
+            Emailjs,
+            <br />
+            AWS S3 Bucket,
+            <br />
+            AWS Cloudfront,
+            <br />
+            AWS Route 53,
             </p>
         </>
         ),
         github: "https://github.com/krishmittal21/portfolio-v2-react",
         demo: "https://krishmittal.me",
     },
-    2: {
+    3: {
         title: "Ecommerce Website",
         image: projectTwo,
         description: (
@@ -51,18 +57,19 @@ const projects = {
         github: "https://github.com/krishmittal21/TheChocolateVilla-ReactJS-Stripe-Strapi",
         demo: "https://github.com/krishmittal21/TheChocolateVilla-ReactJS-Stripe-Strapi",
     },
-    3: {
+    2: {
         title: "Python Game",
         image: projectThree,
         description: (
         <>
             <p>
             As a part of my Harvard CS50 course, I made a python game c/a The bored button Game
-
-Tools I Used:
-Python,
-
-Tkinter
+            <br />
+            Tools I Used:
+            <br />
+            Python,
+            <br />
+            Tkinter
             </p>
         </>
         ),

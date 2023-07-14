@@ -21,7 +21,7 @@ renderContent = (projects) => {
     return projects.map((project, index) => (
         <div key={index} className={`project-sub-container-${index + 1}`}>
             <h3>{project.title}</h3>
-            <img src={project.image} alt={project.title}></img>
+            {/* <img src={project.image} alt={project.title}></img> */}
             <div>{project.description}</div>
             <div className="link-container">
             <a href={project.github} target="_blank" rel="noopener noreferrer">
@@ -37,7 +37,7 @@ renderContent = (projects) => {
 
 render() {
     const { activeProject } = this.state;
-    const projectItems = ["PROJECT ONE", "PROJECT TWO", "PROJECT THREE"];
+    const projectItems = ["PROJECT ONE", "PROJECT TWO"];
 
     return (
         <div className="project-menu  mt-5">
