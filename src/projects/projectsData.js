@@ -63,7 +63,7 @@ const projects = {
         description: (
         <>
             <p>
-            As a part of my Harvard CS50 course, I made a python game c/a The bored button Game
+            As a part of my Harvard CS50 course, I made a python game c/a Random Game Selector
             <br />
             Tools I Used:
             <br />
