@@ -9,7 +9,7 @@ const projects = {
         description: (
         <>
             <p>
-            Deployed and hosted a highly scalable and responsive portfolio website  using ReactJS on AWS S3 bucket, AWS Cloudfront and AWS Route 53.
+            Deployed and hosted a highly scalable and responsive portfolio website using ReactJS on Vercel and NameCheap.
             <br />
             Yes, this website!
             <br />
