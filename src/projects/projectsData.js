@@ -23,11 +23,7 @@ const projects = {
             <br />
             Emailjs,
             <br />
-            AWS S3 Bucket,
-            <br />
-            AWS Cloudfront,
-            <br />
-            AWS Route 53,
+            Vercel
             </p>
         </>
         ),
