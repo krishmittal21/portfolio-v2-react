@@ -5,8 +5,8 @@ const subheadingsData = {
             content: (
             <>
                 <p>
-                A product manager based out of delhi aspiring to be a cloud architect and a developer
-                https://www.educationworld.in/young-achiever-krish-mittal/
+                A Product Manager, Cloud/Solutions Architect and a DevOps engineer with a passion for building products that solve real world problems.
+                {/* https://www.educationworld.in/young-achiever-krish-mittal/ */}
                 </p>
             </>
             ),
@@ -54,17 +54,26 @@ const subheadingsData = {
                 <br/>
                 Collaborated with stakeholders to gather insights and establish partnerships.
                 <br/>
-                Strong knowledge of quantum computing principles and technologies.
+                Exceptional organizational,project management,communication and collaboration skills.
+                </p>
+            </>
+            ),
+        },
+        
+    ],
+    4: [
+        {
+            title: "Microsoft AI Skills Builder Challenge 2023 : https://bit.ly/44B3Uob",
+            content: (
+            <>
+                <p>
+                Hackathon Winner Hack Club Epoch 
                 <br/>
-                Exceptional organizational,project management , communication and collaboration skills.
-                
-
-
-                
-
-
-                
-
+                EducationWorld Young Achiever:https://bit.ly/3q0EXDC
+                <br/>
+                100% Scholarship for QubitbyQubit Quantum Computing Course 
+                <br />
+                World Record Youngest in the world to write an educational book:https://bit.ly/3DwaAYA
                 </p>
             </>
             ),

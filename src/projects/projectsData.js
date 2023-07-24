@@ -13,17 +13,11 @@ const projects = {
             <br />
             Yes, this website!
             <br />
-            Tools I Used  : 
+            <span className="flex flex-wrap justify-center">Tools I Used:</span>
             <br />
-            ReactJS,
-            <br />
-            Tailwind,
-            <br />
-            JavaScript,
-            <br />
-            Emailjs,
-            <br />
-            Vercel
+            <span className="flex flex-wrap justify-center">
+                ReactJS, Tailwind, JavaScript, Emailjs, Vercel
+            </span>
             </p>
         </>
         ),
@@ -59,13 +53,13 @@ const projects = {
         description: (
         <>
             <p>
-            As a part of my Harvard CS50 course, I made a python game c/a Random Game Selector
+            As a part of my Harvard CS50 course, I made a python game c/a Random Game Selector.
             <br />
-            Tools I Used:
+            <span className="flex flex-wrap justify-center ">Tools I Used:</span>
             <br />
-            Python,
-            <br />
-            Tkinter
+            <span className="flex flex-wrap justify-center">
+                Python, tkinter
+            </span>
             </p>
         </>
         ),

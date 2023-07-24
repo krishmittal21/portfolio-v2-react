@@ -24,10 +24,10 @@ renderContent = (projects) => {
             {/* <img src={project.image} alt={project.title}></img> */}
             <div>{project.description}</div>
             <div className="link-container">
-            <a href={project.github} target="_blank" rel="noopener noreferrer">
+            <a href={project.github} target="_blank" rel="noopener noreferrer" className="btn btn-github">
                 GITHUB
             </a>
-            <a href={project.demo} target="_blank" rel="noopener noreferrer">
+            <a href={project.demo} target="_blank" rel="noopener noreferrer" className="btn btn-demo">
                 DEMO
             </a>
             </div>
@@ -54,7 +54,7 @@ render() {
                 </div>
             ))}
             </div>
-            <div className="project-sub-container">
+            <div className="project-sub-container bg-indigo-950 bg-opacity-80 p-4 rounded-lg">
             {this.renderContent([projects[activeProject]])}
             </div>
         </div>
