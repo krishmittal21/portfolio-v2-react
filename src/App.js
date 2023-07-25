@@ -13,6 +13,7 @@ const App=()=> {
     <>
     <Router>
       <NavBar/>
+      
       <Background/>
       <Routes>
         <Route path="/" element={<About/>}/>
@@ -21,6 +22,7 @@ const App=()=> {
         <Route path="/contact" element={<Contact/>}/>
       </Routes>
       <PlayerStats/>
+      
     </Router>
     </>
   );

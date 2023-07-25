@@ -36,6 +36,8 @@ render() {
             ? personalIcon
             : activeMenuTitle === "EDUCATION"
             ? educationIcon
+            : activeMenuTitle === "CAREER"
+            ? careerIcon
             : careerIcon;
 
     const subheadings = subheadingsData[activeMenuItem];

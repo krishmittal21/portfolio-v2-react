@@ -1,3 +1,5 @@
+import React from "react";
+import {FaExternalLinkAlt} from "react-icons/fa";
 const subheadingsData = {
     1: [
         {
@@ -18,7 +20,7 @@ const subheadingsData = {
             content: (
             <>
                 <p>
-                
+                8 CGPA
                 </p>
             </>
             ),
@@ -27,9 +29,9 @@ const subheadingsData = {
             title: " Harvard : CS50 Python 2023 ",
             content: (
             <>
-                <p>
-                
-                </p>
+                <a href="https://drive.google.com/file/d/1_0a4sp6W0ep0HgmqCGzlzMmNJ48Ao5Lx/view?usp=sharing">
+                <FaExternalLinkAlt />
+                </a>
             </>
             ),
         },
@@ -37,9 +39,9 @@ const subheadingsData = {
             title: " QubitbyQubit : Intro to Quantum Computing 2022 ",
             content: (
             <>
-                <p>
-                
-                </p>
+                <a href="https://drive.google.com/file/d/1S5khlSafFlcXFONhqy6bpe5IPfWACkaF/view?usp=sharing">
+                <FaExternalLinkAlt />
+                </a>
             </>
             ),
         },
@@ -63,18 +65,48 @@ const subheadingsData = {
     ],
     4: [
         {
-            title: "Microsoft AI Skills Builder Challenge 2023 : https://bit.ly/44B3Uob",
+            title: "Microsoft AI Skills Builder Challenge 2023",
             content: (
             <>
-                <p>
-                Hackathon Winner Hack Club Epoch 
-                <br/>
-                EducationWorld Young Achiever:https://bit.ly/3q0EXDC
-                <br/>
-                100% Scholarship for QubitbyQubit Quantum Computing Course 
-                <br />
-                World Record Youngest in the world to write an educational book:https://bit.ly/3DwaAYA
-                </p>
+                <a href="https://bit.ly/44B3Uob">
+                <FaExternalLinkAlt />
+                </a>
+            </>
+            ),
+        },
+        {
+            title: " Hackathon Winner Hack Club Epoch  ",
+            content: (
+            <>
+                
+            </>
+            ),
+        },
+        {
+            title: " EducationWorld Young Achiever",
+            content: (
+            <>
+                <a href="https://bit.ly/3q0EXDC">
+                <FaExternalLinkAlt />
+                </a>
+            </>
+            ),
+        },
+        // {
+        //     title: "100% Scholarship for QubitbyQubit Quantum Computing Course by IBM ",
+        //     content: (
+        //     <>
+                
+        //     </>
+        //     ),
+        // },
+        {
+            title: "World Record Youngest in the world to write an educational book",
+            content: (
+            <>
+                <a href="https://bit.ly/3DwaAYA">
+                <FaExternalLinkAlt />
+                </a>
             </>
             ),
         },
