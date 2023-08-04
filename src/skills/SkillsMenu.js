@@ -41,6 +41,10 @@ const SkillSection=()=>{
 export default SkillSection;
 const skills = [
     {
+        title: "ORACLE OCI Cloud",
+        level: 85,
+    },
+    {
         title: "AWS Cloud",
         level: 75,
     },

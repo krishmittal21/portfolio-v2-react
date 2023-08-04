@@ -29,12 +29,12 @@ handleSubheadingClick = (subheading) => {
 
 render() {
     const { activeMenuItem, activeSubheading } = this.state;
-    const menuItems = ["PERSONAL", "EDUCATION", "CAREER", "ACHIEVEMENTS"];
+    const menuItems = ["PERSONAL", "EDUCATION & CERTIFICATIONS", "CAREER", "ACHIEVEMENTS"];
     const activeMenuTitle = menuItems[activeMenuItem - 1];
     const activeMenuIcon =
         activeMenuTitle === "PERSONAL"
             ? personalIcon
-            : activeMenuTitle === "EDUCATION"
+            : activeMenuTitle === "EDUCATION & CERTIFICATIONS"
             ? educationIcon
             : activeMenuTitle === "CAREER"
             ? careerIcon

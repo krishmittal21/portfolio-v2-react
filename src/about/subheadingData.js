@@ -7,8 +7,7 @@ const subheadingsData = {
             content: (
             <>
                 <p>
-                A Product Manager, Cloud/Solutions Architect and a DevOps engineer with a passion for building products that solve real world problems.
-                {/* https://www.educationworld.in/young-achiever-krish-mittal/ */}
+                A Product Manager, Cloud/Solutions Architect with a passion for building products that solve real world problems.
                 </p>
             </>
             ),
@@ -16,12 +15,22 @@ const subheadingsData = {
     ],
     2: [
         {
-            title: " BITS Pilani : Bsc Computer Science 2025 ",
+            title: " BITS Pilani : Bachelors of Science, in Computer Science 2025(Expected) ",
             content: (
             <>
                 <p>
                 8 CGPA
                 </p>
+            </>
+            ),
+        },
+        {
+            title: " Oracle : Cloud Infrastructure Foundations Associate 2023 ",
+            content: (
+            <>
+                <a href="https://drive.google.com/file/d/1rRfqajQkFo4pQwnEgYaPyXleYoAeeQS_/view?usp=drive_link">
+                <FaExternalLinkAlt />
+                </a>
             </>
             ),
         },
@@ -92,14 +101,7 @@ const subheadingsData = {
             </>
             ),
         },
-        // {
-        //     title: "100% Scholarship for QubitbyQubit Quantum Computing Course by IBM ",
-        //     content: (
-        //     <>
-                
-        //     </>
-        //     ),
-        // },
+        
         {
             title: "World Record Youngest in the world to write an educational book",
             content: (
