@@ -57,7 +57,21 @@ const subheadingsData = {
     ],
     3: [
         {
-            title: "QuantumGrad Product Manager 2022-present",
+            title: "Research Intern in Quantum Computing at Paanduv Applications 2023-present",
+            content: (
+            <>
+                <p>
+                Developed and evaluated variational quantum circuits for classification tasks.
+                <br/>
+                Leveraged Qiskit, Cirq, TensorFlow Quantum, PennyLane, and Strawberry Fields to implement and run quantum algorithms.
+                <br/>
+                Introduced quantum computing to non-specialist colleagues. 
+                </p>
+            </>
+            ),
+        },
+        {
+            title: "Product Manager at QuantumGrad 2022-present",
             content: (
             <>
                 <p>
