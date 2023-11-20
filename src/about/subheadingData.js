@@ -13,7 +13,7 @@ const subheadingsData = {
             ),
         },
     ],
-    2: [
+    3: [
         {
             title: " BITS Pilani : Bachelors of Science, in Computer Science 2025(Expected) ",
             content: (
@@ -24,6 +24,8 @@ const subheadingsData = {
             </>
             ),
         },
+    ],
+    4:[
         {
             title: " Oracle : Cloud Infrastructure Foundations Associate 2023 ",
             content: (
@@ -55,7 +57,7 @@ const subheadingsData = {
             ),
         },
     ],
-    3: [
+    2: [
         {
             title: "Research Intern in Quantum Computing at Paanduv Applications 2023-present",
             content: (
@@ -86,7 +88,7 @@ const subheadingsData = {
         },
         
     ],
-    4: [
+    5: [
         {
             title: "Microsoft AI Skills Builder Challenge 2023",
             content: (

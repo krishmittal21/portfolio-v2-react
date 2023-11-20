@@ -15,9 +15,7 @@ const PlayerStats = () => {
             <span id="playerStats__lines__thick"></span>
             <span id="playerStats__lines__thin"></span>
         </div>
-        <h2>Developer, Cloud Architect &
-            
-            Product Manager
+        <h2>Quantum Researcher & Cloud Architect
         </h2>
         <div className="flex  justify-start gap-1">
         <a href="https://github.com/krishmittal21" target="_blank">
