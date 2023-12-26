@@ -15,10 +15,11 @@ const subheadingsData = {
     ],
     3: [
         {
-            title: " BITS Pilani : Bachelors of Science, in Computer Science 2025(Expected) ",
+            title: " BITS Pilani : Bachelors of Science in Computer Science",
             content: (
             <>
                 <p>
+                January 2023 - January 2026
                 8 CGPA
                 </p>
             </>
